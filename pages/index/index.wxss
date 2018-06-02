@@ -1,0 +1,52 @@
+/**index.wxss**/
+
+.container {
+    font-family: Helvetica Neue UltraLight;
+    align-content: center;
+}
+
+.userAvatar {
+    width: 300rpx;
+    height: 300rpx;
+    position: absolute;
+    border-radius: 50%;
+    top: 10%;
+}
+
+.button-start {
+    color: #fff;
+    background-color: #0f88eb;
+    padding: 0 1rem 0 1rem;
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
+
+.GitHubLogo {
+    width: 80rpx;
+    height: 80rpx;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+}
+
+.GitHub {
+    font-family: PingFang SC Ultralight;
+    font-size: 1rem;
+    color: #585858;
+    position: absolute;
+    top: 70%;
+    left: 25%;
+}
+
+element.style {
+    font-family: Helvetica Neue UltraLight;
+}
+
+.QRCode {
+    width: 200rpx;
+    height: 200rpx;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+}

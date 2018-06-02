@@ -1,0 +1,13 @@
+<!--index.wxml-->
+
+<view class="container">
+    <image class="userAvatar" src="/images/logo.png"></image>
+    <view>
+        <button class="button-start" bindtap="toCalc">{{motto}}</button>
+    </view>
+    <image class="GitHubLogo" src="/images/GitHubLogo.png"></image>
+    <view class="GitHub">
+        <text>© Lightwing Ng\nfork me on GitHub</text>
+    </view>
+    <image class="QRCode" src="/images/QRCode_LightwingNg.png"></image>
+</view>

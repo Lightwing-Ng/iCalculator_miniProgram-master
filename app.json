@@ -1,0 +1,16 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/calc/calc",
+        "pages/history/history",
+        "pages/logs/logs"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#0f88eb",
+        "navigationBarTextStyle": "#fff",
+        "navigationBarTitleText": "iCalculator",
+        "backgroundColor": "#fff",
+        "backgroundTextStyle": "light",
+        "enablePullDownRefresh": false
+    }
+}
